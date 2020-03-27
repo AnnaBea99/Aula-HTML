@@ -3,14 +3,14 @@
 >criar um repositorio no GitHub
 >Marcar a opcao inicialize with README
 
-* `baixar o repositorio`
-* *git clone "link"*
+- `baixar o repositorio`
+  * *git clone "link"*
 
-* `salvar mudancas feitas` 
-* *git commit -m "*"*
+- `salvar mudancas feitas` 
+  * *git commit -m "*"*
 
-* `enviar a nuvem`
-* *git push*
+- `enviar a nuvem`
+  * *git push*
 
-* `baixar da nuvem`
-* *git pull*
+- `baixar da nuvem`
+  * *git pull*
