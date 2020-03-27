@@ -7,7 +7,7 @@
   * *git clone "link"*
 
 - `salvar mudancas feitas` 
-  * *git commit -m "*"*
+  * *git commit -m "mensagem"
 
 - `enviar a nuvem`
   * *git push*
